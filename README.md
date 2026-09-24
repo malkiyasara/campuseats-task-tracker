@@ -6,4 +6,3 @@ A simple task tracker for campus tasks.
 
 - Add tasks
 - View tasks
-- Track task status
